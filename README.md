@@ -17,7 +17,7 @@ Dillinger uses a number of open source projects to work properly:
 
 * Carrierwave
 * Ruby-2.1.0
-* Rails 4.1.0
+* Rails 4.0.4
 * Dropzone.js
 * Jquery
 
