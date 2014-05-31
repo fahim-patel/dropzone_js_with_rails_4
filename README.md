@@ -1,45 +1,38 @@
 dropzone_js_with_rails_4
 =========
 
-Drag and drop functionality using Dropzone JS with Rails 4
+Image drag and drop functionality using Dropzone JS with Rails 4.
+Dropzone JS provide many options. You can explore it more http://www.dropzonejs.com/
 
- 
+
 
 Version
 ----
 
-1.0
+v1
 
 Tech
 -----------
 
-Dillinger uses a number of open source projects to work properly:
-
-* Carrierwave
 * Ruby-2.1.0
 * Rails 4.0.4
-* Dropzone.js
-* Jquery
+* Dropzone.js v3.10.2
+
+
+![ScreenShot](https://db.tt/cnyXrPPz)
+ 
 
 
 Installation
 --------------
 
 ```sh
-git clone [git-repo-url] dillinger
-cd dillinger
-npm i -d
-mkdir -p public/files/{md,html,pdf}
-```
+git clone git@github.com:fahim-patel/dropzone_js_with_rails_4.git
+Please configure gitignored file like database.yml etc.
+rake db:create
+rake db:migrate
 
-##### Configure Plugins. Instructions in following README.md files
-
-* plugins/dropbox/README.md
-* plugins/github/README.md
-* plugins/googledrive/README.md
-
-```sh
-node app
+Setup done.Hit homes/index page and start uploading.
 ```
 
 
