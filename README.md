@@ -1,7 +1,7 @@
 dropzone_js_with_rails_4
 =========
 
-Image drag and drop functionality using Dropzone JS with Rails 4.Dropzone JS provide many options. You can explore it more http://www.dropzonejs.com/ . I have only allowed image type of files but you can configure and try with different type of files.
+Drag and drop functionality using Dropzone JS with Rails 4.Dropzone JS provide many options. You can explore it more http://www.dropzonejs.com/ . I have only allowed image type of files but you can configure and try with different type of files.
 
 
 
